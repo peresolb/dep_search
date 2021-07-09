@@ -52,3 +52,9 @@ coverage.xml
 # Sphinx documentation
 docs/_build/
 
+# Files created during build
+setlib/
+db_util.cpp
+get-pip.py
+parser.out
+parsetab.py
